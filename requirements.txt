@@ -1,0 +1,9 @@
+dj-database
+Django
+gunicorn
+psycopg2
+pytz
+
+
+	 
+	
